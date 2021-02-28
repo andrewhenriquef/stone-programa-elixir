@@ -10,7 +10,10 @@ ruby 2.6.5
 ### 2. To run the project
 - Go to the root folder of the project
 - Start `ruby REPL` using the following command
-
+```Shell
+irb
+```
+- After it require the file to your REPL
 ``` Ruby
 require './src/programa_elixir'
 ```
